@@ -41,3 +41,5 @@ outbreak_setup <- function(num.initial.cases, incfn, delayfn, k, prop.asym) {
   # return
   return(case_data)
 }
+
+# Hello hello2 hello3
